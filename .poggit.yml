@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Farmero1400/ServerGUI
+build-by-default: true
+branches:
+- main
+projects:
+  ServerGUI:
+    path: ""
+    libs:
+   - src: muqsit/invmenu/InvMenu
+     version: ^4.6.5
+...

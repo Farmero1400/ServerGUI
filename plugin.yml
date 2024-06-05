@@ -1,0 +1,9 @@
+name: ServerGUI
+version: 1.0.0
+author: Farmero
+api: 5.0.0
+main: Farmero\servergui\ServerGUI
+
+permissions:
+  servergui.cmd:
+    default: true
